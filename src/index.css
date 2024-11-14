@@ -1,0 +1,101 @@
+/* .container{
+  max-width: 1300px;
+  margin: 0 auto;
+} */
+body{
+  background-color:  rgba(18, 18, 18, 0.378);
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
+
+
+select{
+  padding: 10px  20px;
+  border: 2px solid rgb(77, 10, 72);
+  color: black;
+  font-size: 14px;
+  max-width: 350px;
+  border-radius: 10px;
+
+}
+
+.W{
+  font-size: 20px;
+  font-weight: 600;
+}
+.pri{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+
+.ooo{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+select:hover{
+  padding: 10px  20px;
+  border: 2px solid rgb(247, 137, 255);
+  color: black;
+  font-size: 14px;
+  max-width: 350px;
+
+
+}
+
+
+.slider-container{
+  
+    display: flex;
+    justify-content: center; 
+ 
+    align-items: center; 
+    background-color: rgba(74, 67, 67, 0.248);
+
+  
+}
+.ty{
+  width: 1000px;
+
+}
+.q{
+  font-size: 35px;
+  text-align: center;
+  color: black;
+  background-color: rgb(255, 255, 255);
+}
+.w{
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  background-color: rgb(255, 255, 255);
+}
+
+.nn{
+  font-size: 16px;
+  
+  
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+    margin-top: 10px;
+}
+
+.forma{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.for{
+  display: flex;
+  gap: 15px;
+  font-size: 15px;
+  
+}
+
